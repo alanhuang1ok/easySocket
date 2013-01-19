@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\我的文档\Desktop\发布测试\WebSite" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="01/17/2013 17:15:16" />
+    <file relUrl="Site.Master" publishTime="01/17/2013 14:14:31" />
+    <file relUrl="Account/Web.config" publishTime="01/17/2013 14:14:31" />
+    <file relUrl="Account/Register.aspx" publishTime="01/17/2013 14:14:31" />
+    <file relUrl="Account/Login.aspx" publishTime="01/17/2013 14:14:31" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="01/17/2013 14:14:31" />
+    <file relUrl="bin/webSocketClient.dll" publishTime="01/17/2013 17:15:06" />
+    <file relUrl="Styles/Site.css" publishTime="01/17/2013 14:14:31" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="01/17/2013 14:14:31" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="01/17/2013 14:14:31" />
+    <file relUrl="bin/webSocketClient.pdb" publishTime="01/17/2013 17:15:06" />
+    <file relUrl="Global.asax" publishTime="01/17/2013 14:14:31" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="01/17/2013 14:14:31" />
+    <file relUrl="About.aspx" publishTime="01/17/2013 14:14:31" />
+    <file relUrl="Default.aspx" publishTime="01/17/2013 16:37:04" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="01/17/2013 14:14:31" />
+  </publishProfile>
+</publishData>
